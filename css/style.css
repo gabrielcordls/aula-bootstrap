@@ -1,0 +1,31 @@
+body {
+    font: 20px Ubuntu;
+}
+.navbar {
+    background-color: #A8FF6F;
+    padding-left: 25px;
+}
+
+.about-us {
+    background-color: #161616;
+    color: #FFFFFF;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.partners {
+    background-color: #75F9FF;
+    color: #FFFFFF;
+}
+
+.services {
+    border-radius: 5px;
+}
+
+.bg-footer {
+    background-color: #161616;
+    color: #FFFFFF;
+}
